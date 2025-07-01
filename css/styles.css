@@ -11504,7 +11504,7 @@ html {
 }
 
 .text-gradient {
-  background: -webkit-linear-gradient(315deg, #39FF14 0%, #263238   100%);
+  background: -webkit-linear-gradient(315deg, #F8E0BC 0%, #263238   100%);
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -11642,7 +11642,7 @@ html {
   }
 }
 .logo{
-  width: 3rem;
+  width: 10rem;
 
 }
 .link{
@@ -11673,3 +11673,19 @@ margin: 5rem;
     --bs-badge-font-size: 0.75em;
   }
 }
+
+.bg-domo {
+  
+  background-color:#F8E0BC}
+
+  .spotfy{
+    width: 2rem;
+  margin-right: 0.5rem;
+  }
+
+  .containerbody{
+    margin: 5rem;
+  }
+  .fontnav{
+    font-family: var(--bs-body-font-family);
+  }
